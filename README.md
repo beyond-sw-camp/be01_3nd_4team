@@ -1,12 +1,11 @@
 # 역할
-Sure, here is the information in Markdown table format:
 
 | 역할                | 담당자     |
 |---------------------|------------|
-| Project Manager | [고라희🍕](https://github.com/raheego)   |
+| Project Manager | [고라희🥐](https://github.com/raheego)   |
 | Tech Leader        | [김단아🍜](https://github.com/dana096)  |
-| Agile Coach	 | [이영진](https://github.com/yjinlee99)     |
-| Presenter & Git Manager | [주현성](https://github.com/hyunsungJoo) |
+| Agile Coach	 | [이영진🍕](https://github.com/yjinlee99)     |
+| Presenter & Git Manager | [주현성🍤](https://github.com/hyunsungJoo) |
 
 # 요구사항
 
