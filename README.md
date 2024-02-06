@@ -1,8 +1,12 @@
 # 역할
-- PM - 고라희 <br>
-- TL - 김단아 <br>
-- AC - 이영진 <br>
-- 발표자, 형상 관리 담당자 - 주현성<br>
+Sure, here is the information in Markdown table format:
+
+| 역할                | 담당자     |
+|---------------------|------------|
+| Project Manager | 고라희 🍟    |
+| Tech Leader        | 김단아     |
+| Agile Coach	 | 이영진     |
+| Presenter & Git Manager | 주현성 |
 
 # 요구사항
 
