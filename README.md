@@ -28,3 +28,12 @@
 # 제약조건
 - 크롬 기반으로 작성하여 맥이나 리눅스에서는 제대로 동작하지 않을 수도 있습니다.
 - PC환경에서 보는 것을 권장합니다.
+
+# Team Repository
+- [Main](https://github.com/Workflow-Ease/HRIS-main)
+- [Json-Server](https://github.com/Workflow-Ease/HRIS-json-server)
+- [Npm](https://github.com/Workflow-Ease/HRIS-npm)
+- [Express](https://github.com/Workflow-Ease/HRIS-express)
+
+# Deploy
+- https://workflow-ease-123.web.app/dashboard-default
