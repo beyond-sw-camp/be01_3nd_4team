@@ -3,7 +3,7 @@ Sure, here is the information in Markdown table format:
 
 | 역할                | 담당자     |
 |---------------------|------------|
-| Project Manager | 고라희 🍟    |
+| Project Manager | 고라희 🍟(https://github.com/raheego)    |
 | Tech Leader        | 김단아     |
 | Agile Coach	 | 이영진     |
 | Presenter & Git Manager | 주현성 |
