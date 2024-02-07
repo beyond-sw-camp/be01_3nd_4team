@@ -30,12 +30,6 @@
 - 급여 조회 :
     - 부서,직급 별 평균 급여를 조회할 수 있어야 합니다.
 
-<br>
-<br>
-
-# 제약조건
-- 크롬 기반으로 작성하여 맥이나 리눅스에서는 제대로 동작하지 않을 수도 있습니다.
-- PC환경에서 보는 것을 권장합니다.
 
 <br>
 <br>
@@ -48,3 +42,16 @@
 
 # Deploy
 - https://workflow-ease-123.web.app/dashboard-default
+
+# View
+<img src="https://github.com/beyond-sw-camp/be01_3nd_4team/assets/54056684/e305cb31-075a-4937-bc19-b9d76e2f09df" style="width:60%;"/>
+
+
+
+<br>
+<br>
+
+# 제약조건
+- 크롬 기반으로 작성하여 맥이나 리눅스에서는 제대로 동작하지 않을 수도 있습니다.
+- PC환경에서 보는 것을 권장합니다.
+
